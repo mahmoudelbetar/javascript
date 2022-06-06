@@ -1,0 +1,14 @@
+button {
+    margin: 185px;
+    margin-bottom: 0px;
+    margin-left: 235px;
+}
+
+#alert {
+    margin: 60px auto;
+    height: 190px;
+    width: 509px;
+    background-color: #8080806b;
+    border: 10px solid grey;
+    display: none;
+}

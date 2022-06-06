@@ -1,0 +1,22 @@
+#up {
+    border-radius: 100%;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+.swiper-slide img {
+    animation-name: fade;
+    animation-duration: 0.5s;
+    width: 100%;
+    height: 100%;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}

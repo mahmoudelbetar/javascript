@@ -1,0 +1,25 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 120px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+h2 {
+    margin: auto;
+    width: 500px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
